@@ -1,0 +1,25 @@
+# Hugo output directory
+/public/
+
+# Cache and temporary files
+/resources/_gen/
+/resources/_gen/assets/
+/resources/_gen/images/
+/resources/_gen/js/
+/resources/_gen/css/
+/resources/_gen/fonts/
+/resources/_gen/icons/
+
+# Generated files
+/resources/_gen/data/
+/resources/_gen/sitemap.xml
+/resources/_gen/robots.txt
+
+# Ignore the public directory if it exists
+/public/
+
+# Ignore the .DS_Store file on macOS
+.DS_Store
+
+# Ignore the .vscode directory
+.vscode/

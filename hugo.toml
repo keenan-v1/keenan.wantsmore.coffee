@@ -1,0 +1,49 @@
+baseURL = 'https://keenan.wantsmore.coffee/'
+languageCode = 'en-us'
+title = 'Keenan Wants More Coffee'
+theme = 'hugo-developer-portfolio'
+
+[params.plugins]
+# CSS Plugins
+[[params.plugins.css]]
+URL = "https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/css/uikit.min.css"
+# JS Plugins
+[[params.plugins.js]]
+URL = "https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/js/uikit.min.js"
+[[params.plugins.js]]
+URL = "https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/js/uikit-icons.min.js"
+
+# navigation
+[menu]
+[[menu.main]]
+name = "About"
+pageRef = "about"
+url = "about"
+[[menu.main]]
+name = "Blog"
+pageRef = "blog"
+url = "blog"
+[[menu.main]]
+name = "Portfolio"
+pageRef = "portfolio"
+url = "portfolio"
+[[menu.main]]
+name = "Contact"
+pageRef = "contact"
+url = "contact"
+
+[params]
+home = "Home" # What you want the homepage to show up as in the menu bar
+# Meta data
+description = "Keenan just wants more coffee, which is natural for a developer."
+author = "Jonathan \"Keenan\" Walker"
+
+
+  [params.contact]
+  formAction = "https://formspree.io/f/xyzgwbgn" # Add your formspree URL here to get emails
+
+  # This contains the contact information for the footer
+  [params.footer]
+  email = "jonathan@wantsmore.coffee"
+  address = "Scranton, PA USA"
+  googlemaps = "https://www.google.com/maps/place/Scranton,+PA/@41.395058,-75.6797494,13z"
