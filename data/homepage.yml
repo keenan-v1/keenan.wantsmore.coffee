@@ -19,8 +19,11 @@ skill:
   enable: true
   item:
     - title: Terraform
-      logo: resources.Get "images/terraform.png"
+      logo: images/terraform.png
       description: Infrastructure As Code
+    - title: Google
+      logo: https://res.cloudinary.com/samrobbins/image/upload/f_auto,q_auto/v1591793271/logos/logos_google_id6v9a.svg
+      description: Infrastructure As Code      
 experience:
   enable: true
   item:

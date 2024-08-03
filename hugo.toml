@@ -3,6 +3,10 @@ languageCode = 'en-us'
 title = 'Keenan Wants More Coffee'
 theme = 'hugo-developer-portfolio'
 
+[[module.mounts]]
+  source = "assets"
+  target = "assets"
+
 [params.plugins]
 # CSS Plugins
 [[params.plugins.css]]
