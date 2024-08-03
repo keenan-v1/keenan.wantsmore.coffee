@@ -3,10 +3,6 @@ languageCode = 'en-us'
 title = 'Keenan Wants More Coffee'
 theme = 'hugo-developer-portfolio'
 
-[[module.mounts]]
-  source = "assets"
-  target = "assets"
-
 [params.plugins]
 # CSS Plugins
 [[params.plugins.css]]
@@ -23,14 +19,14 @@ URL = "https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/js/uikit-icons.min.js"
 name = "About"
 pageRef = "about"
 url = "about"
-[[menu.main]]
-name = "Blog"
-pageRef = "blog"
-url = "blog"
-[[menu.main]]
-name = "Portfolio"
-pageRef = "portfolio"
-url = "portfolio"
+# [[menu.main]]
+# name = "Blog"
+# pageRef = "blog"
+# url = "blog"
+# [[menu.main]]
+# name = "Portfolio"
+# pageRef = "portfolio"
+# url = "portfolio"
 [[menu.main]]
 name = "Contact"
 pageRef = "contact"

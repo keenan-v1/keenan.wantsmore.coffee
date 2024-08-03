@@ -1,13 +1,15 @@
 ---
 title: "About"
-date: 2019-05-12T12:14:34+06:00
-description: "This is meta description."
-author : "Sam Robbins"
-authorImage : "images/about/profile.jpg"
+date: 2024-08-03 14:54:37
+description: "About page"
+author : "Keenan"
+authorImage : "images/profiles/keenan/pride.png"
 ---
 
-Hi! I'm Sam, a second year Computer Science student from Durham University. 
-I like doing personal projects, which you will find in the portfolio page of this website. 
-My specialties can be found on the homepage, of which most are web development or cyber security.
+Hello! My name is Keenan, otherwise known as Jonathan!
 
-I am currently available for part time remote work, but will be looking for full time employment from summer 2021.
+I am a senior engineer with experience in DevOps, app development, systems engineering, and more.
+
+My favorite hobby is learning new things, including frameworks and languages.
+
+NEVER STOP LEARNING!

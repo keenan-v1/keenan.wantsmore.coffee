@@ -1,17 +1,18 @@
 ---
 banner:
-  title: Hi! I’m Sam
+  title: Professionally Caffeinated
 social:
+  bluesky: keenan-v1.bsky.social
   twitter: ""
-  linkedin: sam-robbins-gb
-  github: samrobbins85
+  linkedin: keenanv1
+  github: keenan-v1
   gitlab: ""
   facebook: ""
   instagram: ""
-  gmail: samrobbinsgb
+  gmail: ""
 about:
   enable: true
-  content: 2nd Year Durham Computer Science Student
+  content: Experienced Senior DevOps Engineer
   button:
     btnText: Find out more
     URL: "/about"
@@ -20,39 +21,50 @@ skill:
   item:
     - title: Terraform
       logo: images/terraform.png
-      description: Infrastructure As Code
-    - title: Google
-      logo: https://res.cloudinary.com/samrobbins/image/upload/f_auto,q_auto/v1591793271/logos/logos_google_id6v9a.svg
-      description: Infrastructure As Code      
+      learnMoreUrl: https://developer.hashicorp.com/terraform/intro
+      description: |
+        Terraform helps keep your infrastructure and other resources as repeatable as possible. 
+        With Terraform, reusable modules allow faster setup and management of all supported resources.
+    - title: AWS
+      logo: images/aws.svg
+      learnMoreUrl: https://aws.amazon.com/getting-started/
+      description: |
+        AWS allows you to quickly create the infrastructure and resources you need, when you need them.
+        A leader in cloud services, AWS provides solutions for storage, hosting, and everything in between.
 experience:
   enable: true
   item:
-    - logo: https://res.cloudinary.com/samrobbins/image/upload/f_auto,q_auto/v1591793271/logos/logos_google_id6v9a.svg
-      title: init.g
-      company: Google
-      duration: November 2019
+    - logo: images/lindenlab.jpg
+      title: Systems Engineer
+      company: Linden Lab
+      duration: December 2018 - April 2021
+    - logo: images/tilia.png
+      title: Sr. Systems Engineer
+      company: Tilia, LLC
+      duration: April 2021 - Present
+
 hackathons:
-  enable: true
+  enable: false
   item:
     - title: Hack Cambridge 2019
       description: Climate change simulator
       image: https://res.cloudinary.com/samrobbins/image/upload/f_auto,q_auto/v1591793405/stickers/Hack_Cambridge_101_ozoq5d.png
       url: none
 certifications:
-  enable: true
+  enable: false
   item:
     - title: Microsoft Azure Fundamentals
       image: https://res.cloudinary.com/samrobbins/image/upload/v1592501459/microsoft-certified-fundamentals-badge_cpcgyn.svg
       url: https://www.youracclaim.com/badges/b4cf7a86-eb83-478e-bfd0-9f427c3474a0/public_url
 education:
-  enable: true
+  enable: false
   item:
     - title: BSc Computer Science
       year: 2018 - Present
       academy: Durham University
       image: https://res.cloudinary.com/samrobbins/image/upload/f_auto,q_auto/v1591793268/logos/logos_Durham_fc2sae.svg
 leadership:
-  enable: true
+  enable: false
   item:
     - logo: https://res.cloudinary.com/samrobbins/image/upload/f_auto,q_auto/v1591793280/logos/logos_yl_qozav6.webp
       title: Young Leader
