@@ -1,4 +1,7 @@
 ---
+analytics:
+  enable: true
+  site: keenan.wantsmore.coffee
 banner:
   title: Professionally Caffeinated
 social:

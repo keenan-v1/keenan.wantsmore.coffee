@@ -38,6 +38,8 @@ home = "Home" # What you want the homepage to show up as in the menu bar
 description = "Keenan just wants more coffee, which is natural for a developer."
 author = "Jonathan \"Keenan\" Walker"
 
+  [params.analytics]
+  site = "keenan.wantsmore.coffee"
 
   [params.contact]
   formAction = "https://formspree.io/f/xyzgwbgn" # Add your formspree URL here to get emails
