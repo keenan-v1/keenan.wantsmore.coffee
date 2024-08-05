@@ -34,6 +34,14 @@ skill:
 experience:
   enable: true
   item:
+    - logo: images/umtechx.png
+      title: Software Developer
+      company: UMTechX
+      duration: Februrary 2015 - December 2018
+    - logo: images/codeclubab.png
+      title: Developer / Product Manager
+      company: CodeClub AB (Wurm Online)
+      duration: November 2015 - July 2023
     - logo: images/lindenlab.jpg
       title: Systems Engineer
       company: Linden Lab
