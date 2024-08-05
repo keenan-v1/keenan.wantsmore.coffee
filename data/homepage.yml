@@ -31,6 +31,19 @@ skill:
       description: |
         AWS allows you to quickly create the infrastructure and resources you need, when you need them.
         A leader in cloud services, AWS provides solutions for storage, hosting, and everything in between.
+    - title: Docker
+      logo: images/docker.svg
+      learnMoreUrl: https://www.docker.com/101-tutorial/
+      description: |
+        Docker virtualization is a common way to ship applications in the cloud. Containers can contain 
+        application, configuration, and dependencies in a ready-to-run package that can be deployed on
+        AWS ECS, Kubernetes, or a variety of other hosting options.
+    - title: Python
+      logo: images/python.png
+      learnMoreUrl: https://www.learnpython.org/
+      description: |
+        Python is a flexible and fully-featured scripting language that allows for the creation of 
+        anything from simple scripts to fully-featured web applications using frameworks like Django or Flask.
 experience:
   enable: true
   item:
