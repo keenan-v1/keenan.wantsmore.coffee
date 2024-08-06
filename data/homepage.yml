@@ -5,7 +5,7 @@ analytics:
 banner:
   title: Professionally Caffeinated
 social:
-  bluesky: keenan-v1.bsky.social
+  bluesky: keenan.wantsmore.coffee
   twitter: ""
   linkedin: keenanv1
   github: keenan-v1
@@ -47,6 +47,35 @@ skill:
       description: |
         Python is a flexible and fully-featured scripting language that allows for the creation of 
         anything from simple scripts to fully-featured web applications using frameworks like Django or Flask.
+    - title: Git
+      logo: images/git.png
+      learnMoreUrl: https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F
+      description: |
+        Git is a popular version control system (VCS) that allows us to track and organize changes to code bases, 
+        documentation, and other content. While Git does not handle binary data well, Git LFS (Large File Storage) 
+        can enable the storing of large file size items.
+    - title: GitHub
+      logo: images/github.svg
+      learnMoreUrl: https://github.com/about
+      description: |
+        GitHub, not to be confused with the underlying technology <b>git</b>, is a platform for hosting <b>git</b>
+        repositories. GitHub provides a number of related services, such as package management, build pipelines,
+        release and issue management, and pull requests for safely managing additions to repositories.
+    - title: GitHub Actions
+      logo: images/github-actions.svg
+      learnMoreUrl: https://docs.github.com/en/actions/writing-workflows
+      description: |
+        GitHub Actions, a part of the GitHub version control platform, is a way to run various tasks in the context 
+        of specific repositories. These actions can be triggered on a schedule, pushes to the repository, 
+        pull requests, and many other triggers. Actions run on Runners, which are ephemeral machines that execute 
+        the tasks in a given workflow.
+    - title: Go
+      logo: images/golang.png
+      learnMoreUrl: https://go.dev/learn/
+      description: |
+        Go, or also known as Golang, is a fully featured compiled programming language developed by Google. Go's features
+        include type safety, integrated testing, coverage, and benchmarking, as well as a plethora of libraries and support
+        from a strong community. One usecase for Go is in the creation of backend services and other server-side applications.
 experience:
   enable: true
   item:
