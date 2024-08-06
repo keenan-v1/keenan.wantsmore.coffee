@@ -37,6 +37,7 @@ home = "Home" # What you want the homepage to show up as in the menu bar
 # Meta data
 description = "Keenan just wants more coffee, which is natural for a developer."
 author = "Jonathan \"Keenan\" Walker"
+image = "images/profiles/keenan/pride.png"
 
   [params.analytics]
   site = "keenan.wantsmore.coffee"
