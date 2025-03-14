@@ -6,5 +6,5 @@ author: Jonathan "Keenan" Walker
 title: Keenan Wants More Coffee
 description: "Keenan just wants more coffee, which is natural for a developer."
 images:
-- home-cover.png
+- images/coffee-icon.png
 ---

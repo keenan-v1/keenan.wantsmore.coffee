@@ -76,6 +76,13 @@ skill:
         Go, or also known as Golang, is a fully featured compiled programming language developed by Google. Go's features
         include type safety, integrated testing, coverage, and benchmarking, as well as a plethora of libraries and support
         from a strong community. One usecase for Go is in the creation of backend services and other server-side applications.
+    - title: TypeScript
+      logo: images/typescript.png
+      learnMoreUrl: https://www.typescriptlang.org/
+      description: |
+        TypeScript is a strongly-typed language built atop JavaScript that helps developers write better and more stable code.
+        The language transpiles to JavaScript, making it able to run almost anywhere JavaScript can run. If you want the flexibility
+        JavaScript and the sanity of type checking, then TypeScript is your solution.
 experience:
   enable: true
   item:
